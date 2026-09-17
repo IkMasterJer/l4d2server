@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+$basetexture "models\infected\spitter\zombie1"
+$bumpmap "models\infected\spitter\zombie1_normal"
+$phong 1
+$phongboost 3
+
+$halflambert 0
+$phongfresnelranges "[.2 .5 5]"
+$ambientocclusion 1
+$diffuseexp "1.0"
+
+
+
+
+$lightwarptexture "models\survivors\coach\coach_head_wrp"
+}
